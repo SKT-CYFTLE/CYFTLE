@@ -1,0 +1,12 @@
+# chat-gpt-for-cyftle
+
+* 크롬 브라우저 버전 맞추기
+
+https://msgoel.tistory.com/entry/%EC%85%80%EB%A6%AC%EB%8B%88%EC%9B%80-Selenium-%ED%81%AC%EB%A1%AC-%EC%8B%A4%ED%96%89-%EC%98%A4%EB%A5%98seleniumcommonexceptionsSessionNotCreatedException
+
+위 링크 따라서 브라우저 버전 업데이트
+
+* 패키지 설치
+pip install -r requirements.txt
+
+* open ai 로그인시 google 연동 로그인 하면 안 됨. 직접 회원가입한 아이디로 해야함

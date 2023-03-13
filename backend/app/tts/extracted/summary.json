@@ -1,0 +1,22 @@
+{
+  "jobID":  "df1f037a-4627-42dc-98c3-2fa8df71e98b",
+  "status":  "Succeeded",
+  "results":  [
+    {
+      "texts":  [
+        "티미는 야구를 보고 너무 기뻐했고 야구를 하고 싶어했습니다. 그러나 다른 동물들은 호랑이가 그들을 다치게 할까봐 두려워서 호랑이가 그들과 놀게하는 것을 주저했습니다. 그러나 티미는 그가 공정하게 놀 것이고 그들을 해치지 않을 것이라고 확신했습니다."
+      ],
+      "status":  "Succeeded",
+      "billingDetails":  {
+        "CustomNeural":  "0",
+        "Neural":  "138"
+      },
+      "audioFileName":  "0001.mp3",
+      "properties":  {
+        "audioSize":  "429120",
+        "duration":  "PT21.3S",
+        "durationInTicks":  "213870000"
+      }
+    }
+  ]
+}
