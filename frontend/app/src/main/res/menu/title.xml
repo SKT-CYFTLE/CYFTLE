@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/share"
+        android:icon="@mipmap/more"
+        app:showAsAction="always"
+        app:contentInsetStart="0dp"
+        app:tint="#0019F4"
+        android:title="share" />
+
+    <item
+        android:id="@+id/bell"
+        android:icon="@mipmap/bell"
+        app:showAsAction="always"
+        app:tint="#0019F4"
+        app:contentInsetStart="0dp"
+        android:title="bell" />
+</menu>
